@@ -21,7 +21,7 @@
 **Fuente de los datos:** Banco Central de Reserva del Perú (BCRP)
 
 ### Pregunta de investigación
-*"¿Cómo se relaciona el Tipo de Cambio con la Demanda Interna en el Perú durante el periodo 2003-2025?"*
+*"¿La variación de la Demanda Interna es un predictor significativo del Tipo de Cambio en el Perú (2003-2025), o dicha relación está principalmente mediada por shocks externos como el precio del cobre y la incertidumbre financiera global?"*
 
 ### Principales hallazgos
 
